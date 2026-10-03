@@ -1,0 +1,8 @@
+{
+  "name": "Remix DesiBazaar - Heritage Rice \u0026 Desi Pantry",
+  "description": "Authentic heritage rice varieties, desi ghee, cold-pressed oils, organic pulses, spices, with real-time inventory management and secure multi-tier payment gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
